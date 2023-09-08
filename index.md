@@ -5,9 +5,9 @@
 ### Data Analytics Projects  
 
 [Global Solid Waste Emissions](https://public.tableau.com/views/Emissions_final_story_08_09_/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
-<img src="images/emissions_countries.png?raw=true"/ width="200" height="90">
+<img src="images/emissions_countries.png?raw=true" width="200" height="90">
 <br><br>
-<img src="images/emissions_clusters.png?raw=true"/ width="200" height="90">
+<img src="images/emissions_clusters.png?raw=true" width="200" height="90">
 
 ---
 [Instacart - sales and customer behavior] analysis(https://github.com/alexborschke/PYTHON_INSTACART_PROJECT/blob/main/Final%20report_Instacart/Final%20report_AlexBorschke.xlsx))
