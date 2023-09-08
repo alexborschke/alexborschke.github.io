@@ -29,9 +29,9 @@
 <p style="font-size: 12px"> In this SQL-based project, I helped the BI department of a fictional video rental company "Rockbuster Stealth" with a launch strategy for the new online video service. I conducted an EDA and described patterns in the data, such as the average rental rate, revenue, number of active customers, etc. I determined top 10 countries and cities with the highest number of customers in 2006, top 10 countries with the highest revenue, the 5 most loyal customers in 2006, and the most popular film genres in 2006. I gave recommendations regarding price policy, market expansion, and loyalty program. 
 Analytical techniques: data cleaning and manipulation, joining tables, using CTEs and subqueries in SQL.</p>
 <br>
-<img src="images/rockbuster_map?raw=true"/>
+<img src="images/rockbuster_map.png?raw=true"/>
 <br><br>
-<img src="images/rockbuster_num?raw=true"/>
+<img src="images/rockbuster_num.png?raw=true"/>
 ---
 
 ### Category Name 2
