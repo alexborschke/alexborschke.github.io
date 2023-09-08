@@ -15,7 +15,13 @@
 
 ---
 [Instacart - sales and customer behavior analysis](https://github.com/alexborschke/PYTHON_INSTACART_PROJECT/blob/main/Final%20report_Instacart/Final%20report_AlexBorschke.xlsx)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<br>
+<p style="font-size: 12px"> Having analyzed several data sets in Python, I identified busiest days and hours, price ranges and the most popular departments for an online grocery store. I aslo created customer profiles based on features such as brand loyalty, demographic info, order frequency, family status, regions, and other. On the basis of the analysis results, I gave recommendations to the marketing and sales departments regarding the upcoming marketing campaign to improve customer loyalty and boost sales. </p>
+
+<br>
+<img src="images/instacart_days.png?raw=true"/>
+<br><br>
+<img src="images/instacart_customer.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
