@@ -2,13 +2,14 @@
 
 ---
 
-### Category Name 1 
+### Data Analytics Projects  
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Global Solid Waste Emissions]((https://public.tableau.com/views/Emissions_final_story_08_09_/Story1?:language=en-US&:display_count=n&:origin=viz_share_link))
+<img src="images/emissions_countries.jpg?raw=true"/>
+<img src="images/emissions_clusters.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Instacart - sales and customer behavior analysis](/pdf/population_flow.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
