@@ -6,7 +6,7 @@
 
 [Global Solid Waste Emissions 2015-2021](https://public.tableau.com/views/Emissions_final_story_08_09_/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
 <br>
-<p style="font-size: 12px">In this project, I built regression models to analyse relationships between two pairs of variables: country's population & solid waste emissions quantity / country's GDP per capita & Waste Management indicator (how well a country recycles waste on a scale from 0 to 100). Using a k-means clustering algorithm, I also determined how the data values of these two variable pairs from groupings. A geospatial analysis resulted in two rankings of the world countries: one that ranks countries according to their total emissions produced from solid waste, and another - according to total solid waste emissions per capita.</p>
+<p style="font-size: 12px">In this project, I built regression models to analyse relationships between two pairs of variables: country's population & solid waste emissions quantity / country's GDP per capita & Waste Management indicator (how well a country recycles waste on a scale from 0 to 100). Using a k-means clustering algorithm, I also determined how data values of these two variable pairs form groupings. A geospatial analysis resulted in two rankings of the world countries: one that ranks countries according to their total emissions produced from solid waste, and another that ranks countries according to total solid waste emissions per capita.</p>
 
 <br>
 <img src="images/emissions_clusters.png?raw=true"/>
