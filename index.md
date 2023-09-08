@@ -5,11 +5,11 @@
 ### Data Analytics Projects  
 
 [Global Solid Waste Emissions]((https://public.tableau.com/views/Emissions_final_story_08_09_/Story1?:language=en-US&:display_count=n&:origin=viz_share_link))
-<img src="images/emissions_countries.jpg?raw=true"/>
-<img src="images/emissions_clusters.jpg?raw=true"/>
+<img src="images/emissions_countries.png?raw=true"/>
+<img src="images/emissions_clusters.png?raw=true"/>
 
 ---
-[Instacart - sales and customer behavior analysis](/pdf/population_flow.pdf)
+[Instacart - sales and customer behavior] analysis(https://github.com/alexborschke/PYTHON_INSTACART_PROJECT/blob/main/Final%20report_Instacart/Final%20report_AlexBorschke.xlsx))
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
