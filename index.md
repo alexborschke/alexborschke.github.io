@@ -5,7 +5,7 @@
 ### Data Analytics Projects  
 
 [Global Solid Waste Emissions](https://public.tableau.com/views/Emissions_final_story_08_09_/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
-description: > 
+<br><br>
 By conducting regression analyses in Python, I established that there is a weak linear relationship between country's population and total emissions from solid waste that it produces. The relationship between GDP per capita and Waste Management indicator (WMG; how well a country recycles its waste; max.: 100, min.: 0) was proved to be non-linear: 
 <br><br>
 <img src="images/emissions_countries.png?raw=true"/>
