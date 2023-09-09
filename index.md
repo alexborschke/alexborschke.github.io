@@ -31,7 +31,7 @@ Analytical techniques: data cleaning and manipulation, joining tables, using CTE
 <br>
 <img src="images/rockbuster_map.png?raw=true"/>
 <br><br>
-<img src="images/rockbuster_num.png?raw=true"/>
+<img src="images/rockbuster_numb.png?raw=true"/>
 ---
 
 ### Category Name 2
