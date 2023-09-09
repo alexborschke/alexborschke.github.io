@@ -7,8 +7,9 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   Tools: Excel, SQL, Python, Tableau
   <br><br>
-  <a href="https://www.linkedin.com/in/alexborschke/">View My LinkedIn Profile</a>
-  <a href="https://github.com/alexborschke?tab=repositories/">View My GitHub Repo</a>
+  <a href="https://www.linkedin.com/in/alexborschke/">LinkedIn Profile</a>
+  <a href="https://github.com/alexborschke?tab=repositories/">GitHub Repo</a>
+  <a href="https://public.tableau.com/app/profile/alexandra.borschke/">Tableau Public</a>
   <br><br>
   
 remote_theme: pages-themes/minimal@v0.2.0
