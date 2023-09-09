@@ -40,7 +40,7 @@
 ---
 [Preparing for influenza season in the US 2018](https://public.tableau.com/views/PreparingforinfluenzaseasonintheUSA2018/StoryboardInfluenza?:language=en-US&:display_count=n&:origin=viz_share_link)
 <br>
-<p style="font-size: 12px"> To help US hospitals overcome the upcoming influenza season of 2018, I determined the seasonality of influenza and predicted when it will occur in 2018, I determined characteristics of vulnerable population and which US states have the high numbers of vulnerable population. Based on these results, I gave recommendations to hospitals and medical agencies when and where to send more medical staff and which preparatory actions to undertake outside the influenza season.</p>
+<p style="font-size: 12px"> To help US hospitals overcome the upcoming influenza season of 2018, I determined the seasonality of influenza and predicted when it will occur in 2018, I determined specific characteristics of vulnerable population and which US states have the high numbers of vulnerable population. Based on these results, I gave recommendations to hospitals and medical agencies when and where to send more medical staff and which preparatory actions to undertake outside the influenza season.</p>
 <br> 
 <p style="font-size: 12px"><b>Analytical techniques:</b> data cleaning and manipulation, statistical hypothesis testing, forecasting, data visualization.</p>
 <br>
