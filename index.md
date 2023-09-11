@@ -51,7 +51,7 @@
 
 
 ---
-[GameCo - analyzing global video game market trends]()
+[GameCo - analyzing global video game market trends](/pdf/Final Project Presentation for GameCo.pdf)
 <br>
 <p style="font-size: 12px"> The goal of this project was to foster, with the help of a descriptive analysis, a better understanding of how GameCo’s (a fictitious video game company) new games might fare in the market. I determined global and regional trends in video game sales, regional markets with current rapid growth, and popular video game genres and platforms. I gave recommendations for the development of the company on the following three markets: Japan, North America, and Europe.</p>
 
