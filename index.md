@@ -2,7 +2,7 @@
 
 ---
 
-[Global Solid Waste Emissions 2015-2021](https://public.tableau.com/views/Emissions_final_story_08_09_/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
+[Global Solid Waste Emissions 2015-2021](https://public.tableau.com/views/GlobalSolidWasteEmissions2015-2021/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
 <br>
 <p style="font-size: 12px">In this Python-based project, I built regression models to analyse relationships between two pairs of variables: country's population & solid waste emissions quantity / country's GDP per capita & Waste Management indicator (how well a country recycles waste on a scale from 0 to 100). Using a k-means clustering algorithm, I also determined how data values of these two variable pairs form groupings. A geospatial analysis resulted in two rankings of the world countries: one that ranks countries according to their total emissions produced from solid waste, and another that ranks countries according to total solid waste emissions per capita.</p>
   
@@ -15,7 +15,7 @@
 
 
 ---
-[Instacart - sales and customer behavior analysis](https://github.com/alexborschke/PYTHON_INSTACART_PROJECT/blob/main/Final%20report_Instacart/Final%20report_AlexBorschke.xlsx)
+[Instacart - sales and customer behavior analysis](https://github.com/alexborschke/PYTHON_INSTACART_PROJECT)
 <br>
 <p style="font-size: 12px"> Having analyzed several data sets in Python, I identified the busiest days and hours, price ranges and the most popular departments for an online grocery store. I also created customer profiles based on features such as brand loyalty, demographic info, order frequency, family status, regions, and other. On the basis of the analysis results, I gave recommendations to the marketing and sales departments regarding the upcoming marketing campaign to improve customer loyalty and boost sales. </p>
 
@@ -27,7 +27,7 @@
 
 
 ---
-[Rockbuster Stealth](https://public.tableau.com/shared/7KJ7ZD7P5?:display_count=n&:origin=viz_share_link)
+[Rockbuster Stealth](https://public.tableau.com/views/RockbusterStealthOnlineStreamingServiceLaunch/StoryboardRockbuster?:language=en-US&:display_count=n&:origin=viz_share_link)
 <br>
 <p style="font-size: 12px"> In this SQL-based project, I helped the BI department of a fictional video rental company "Rockbuster Stealth" with a launch strategy for the new online video service. I conducted an EDA and described patterns in the data, such as the average rental rate, revenue, number of active customers, etc. I determined the top 10 countries and cities with the highest number of customers in 2006, the top 10 countries with the highest revenue, the 5 most loyal customers in 2006, and the most popular film genres in 2006. I gave recommendations regarding price policy, market expansion, and loyalty programs.</p>
 
@@ -39,7 +39,7 @@
 
 
 ---
-[Preparing for influenza season in the US 2018](https://public.tableau.com/views/PreparingforinfluenzaseasonintheUSA2018/StoryboardInfluenza?:language=en-US&:display_count=n&:origin=viz_share_link)
+[Preparing for influenza season in the US 2018](https://public.tableau.com/views/PreparingforinfluenzaseasoninUS2018/StoryboardInfluenza?:language=en-US&:display_count=n&:origin=viz_share_link)
 <br>
 <p style="font-size: 12px"> To help US hospitals overcome the upcoming influenza season of 2018, I determined the seasonality of influenza and predicted when it will occur in 2018, I determined specific characteristics of the vulnerable population, and which US states have the highest numbers of vulnerable population. Based on these results, I gave recommendations to hospitals and medical agencies when and where to send more medical staff and which preparatory actions to undertake outside the influenza season.</p>
 
