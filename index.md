@@ -11,6 +11,8 @@
 <br>
 <img src="images/emissions_clusters.png?raw=true"/>
 <br><br>
+<img src="images/emissions_regrs.png?raw=true"/>
+<br><br>
 <img src="images/emissions_countries.png?raw=true"/>
 
 
