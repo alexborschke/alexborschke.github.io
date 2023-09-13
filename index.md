@@ -1,6 +1,7 @@
 ## Portfolio
 <br>
 [Download portfolio as presentation](/pdf/Portfolio_AlexBorschke.pdf)
+
 ---
 
 [Global Solid Waste Emissions 2015-2021](https://public.tableau.com/views/GlobalSolidWasteEmissions2015-2021/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
