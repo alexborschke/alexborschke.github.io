@@ -29,6 +29,15 @@
 <br><br>
 <img src="images/instacart_customer.png?raw=true"/>
 
+[Latest shopping trends in the USA](https://github.com/alexborschke/Shopping_trends_SQL_Tableau)
+<br>
+<p style="font-size: 12px"> Having analyzed several data sets in SQL, I determined the following indicators: total sales, avg, max and min of the sales, which gender and age group spends the most, and which seasons are the most popular for spending. I further analysed customer profiles and determined the most popular shipping types and payment methods, number of customers in each gender and age group, the popular product categories, the top 5 popular items. I also analysed which customers and how many are 'low-spenders', 'average-spenders' and 'high-spenders', and which categories of products and how many are 'High-range', 'Average-range' and 'Low-range', top 10 states by customer number and sales. Some of my findings are illustrated in the Tableau dashboard. </p>
+
+<p style="font-size: 12px"><b>Analytical techniques:</b> SQL: data wrangling and transformation, new variable derivation, data aggregation, CTEs, data visualization in Tableau</p>
+<br>
+<img src="images/images/Shopping trends.png?raw=true"/>
+<br><br>
+<img src="images/Shopping trends 2.png?raw=true"/>
 
 ---
 [Rockbuster Stealth](https://public.tableau.com/views/RockbusterStealthOnlineStreamingServiceLaunch/StoryboardRockbuster?:language=en-US&:display_count=n&:origin=viz_share_link)
