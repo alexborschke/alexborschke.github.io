@@ -37,7 +37,7 @@
 
 <p style="font-size: 12px"><b>Analytical techniques:</b> SQL: data wrangling and transformation, new variable derivation, data aggregation, CTEs, data visualization in Tableau</p>
 <br>
-<img src="images/images/Shopping trends.png?raw=true"/>
+<img src="images/Shopping trends.png?raw=true"/>
 <br><br>
 <img src="images/Shopping trends 2.png?raw=true"/>
 
